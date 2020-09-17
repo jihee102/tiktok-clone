@@ -11,6 +11,6 @@ npm install
 # Run app
 npm start
 
-# Live Demo
-![Live Demo](https://tictok-clone-287db.web.app/)
 ```
+## Live Demo
+[Live Demo](https://tictok-clone-287db.web.app/)
